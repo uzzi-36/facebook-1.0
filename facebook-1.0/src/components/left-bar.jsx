@@ -5,7 +5,7 @@ const leftBar = () => {
         <div className="bsb-1">
 
             <div type="" className="sdp">
-                <img src="./imgs/dp.jpg" alt="" className="" width={40} />
+                <img src="Images\profilepic.jpg" alt="" className="" width={40} />
                 <p>Uzair Khan</p>
             </div>
 
